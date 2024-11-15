@@ -49,5 +49,5 @@ func main() {
 		}
 	}
 
-	fmt.Println("Encoded string:", hexString)
+	fmt.Println("Encrypted string:", hexString)
 }
