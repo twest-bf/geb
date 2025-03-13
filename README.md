@@ -1,6 +1,6 @@
-# Go Encrypt Bytes
+# Go Encode Bytes
 
-A generic byte encrypter.
+A generic byte encoder.
 
 Usage:
 
